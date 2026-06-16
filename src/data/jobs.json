@@ -1,0 +1,93 @@
+[
+   {
+        "id" : 1,
+        "title" : "Software Engineer",
+        "company" : "TCS",
+        "location" : "Hyderabad",
+        "salary" : "20LPA",
+        "experience": "3+ years",
+        "description" : "We are looking for a skilled software engineer to join our team.",
+        "highlights": ["Competitive salary and benefits",
+            "Flexible working hours",
+             "Opportunity to work on cutting-edge technologies"],
+        "requirements": ["Bachelor's degree in Computer Science or related field",
+            "Proficiency in programming languages such as Java, Python, or JavaScript",
+            "Experience with web development frameworks and tools"],
+            "logo": "https://www.bing.com/th/id/OIP.NtXk46ERIZV5GhyN1e4N-AHaEa?w=193&h=135&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+            "companyInfo":"Tata Consultancy Services (TCS) is a global IT services, consulting and business solutions organization.Part of the Tata Group. TCS has been partnering with clients for over 50 years to simplify, strengthen and transform their businesses.We serve clients across industries with a diverse, global workforce."
+    },
+    
+    {
+        "id" : 2,
+        "title" : "Software Developer",
+        "company" : "Amazon",
+        "location" : "Banglaore,Hyderabad",
+        "salary" : "12-15LPA",
+        "experience": "1+ years",
+        "description" : "We are looking for a skilled software developer to join our team.",
+        "highlights": ["Competitive salary and benefits",
+            "Flexible working hours",
+            "Opportunity to work on cutting-edge technologies"],
+        "requirements": ["Bachelor's degree in Computer Science or related field",
+            "Proficiency in programming languages such as Java, Python, or JavaScript",
+            "Experience with web development frameworks and tools"],
+            "logo":"https://pngimg.com/uploads/amazon/amazon_PNG5.png",
+            "companyInfo":"Amazon is a global technology company focused on e-commerce, cloud computing and AI.We operate worldwide and are known for customer obsession, innovation and large-scale systems that impact millons daily."
+            
+    },
+
+    {
+        "id" : 3,
+        "title" : "Software Tester",
+        "company" : "Google",
+        "location" : "Banglaore,Hyderabad",
+        "salary" : "20-25LPA",
+        "experience": "3+ years",
+        "description" : "We are looking for a skilled software engineer to join our team.",
+        "highlights": ["Competitive salary and benefits",
+            "Flexible working hours",
+            "Opportunity to work on cutting-edge technologies"],
+        "requirements": ["Bachelor's degree in Computer Science or related field",
+            "Proficiency in programming languages such as Java, Python, or JavaScript",
+            "Experience with web development frameworks and tools"],
+            "logo":"https://freelogopng.com/images/all_img/1657952440google-logo-png-transparent.png"],
+            "companyInfo":"Google is a multinational technology company specializing in internet services and products.Our mission is to organize the world's information and make it universally accessible and useful.We build products used by billions."
+    },
+
+    {
+        "id" : 4,
+        "title" : "Full Stack Java Developer",
+        "company" : "Google",
+        "location" : "Banglaore",
+        "salary" : "15-16LPA",
+        "experience": "3+ years",
+        "description" : "We are looking for a skilled software developer to join our team.",
+        "highlights": ["Competitive salary and benefits",
+            "Flexible working hours",
+            "Opportunity to work on cutting-edge technologies"],
+        "requirements": ["Bachelor's degree in Computer Science or related field",
+            "Proficiency in programming languages such as Java, Python, or JavaScript",
+            "Experience with web development frameworks and tools"],
+            "logo":"https://freelogopng.com/images/all_img/1657952440google-logo-png-transparent.png",
+            "companyInfo":"Google is a multinational technology company specializing in internet services and products.Our mission is to organize the world's information and make it universally accessible and useful.We build products used by billions."
+    },
+    {
+        "id" : 5,
+        "title" : "Data Analyst",
+        "company" : "Google",
+        "location" : "Banglaore,Hyderabad",
+        "salary" : "12-15LPA",
+        "experience": "3+ years",
+        "description" : "We are looking for a skilled data analyst to join our team.",
+        "highlights": ["Competitive salary and benefits",
+            "Flexible working hours",
+            "Opportunity to work on cutting-edge technologies"],
+        "requirements": ["Bachelor's degree in Computer Science or related field",
+            "Proficiency in programming languages such as Java, Python, or JavaScript",
+            "Experience with web development frameworks and tools"],
+            "logo":"https://freelogopng.com/images/all_img/1657952440google-logo-png-transparent.png",
+            "companyInfo":"Google is a multinational technology company specializing in internet services and products.Our mission is to organize the world's information and make it universally accessible and useful.We build products used by billions."
+    }
+
+
+]
